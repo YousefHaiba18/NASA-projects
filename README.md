@@ -16,4 +16,17 @@ NASA’s APOD API showcases daily images and videos that celebrate the wonders o
 4. Run the server: python NASA_apod.py
 5. On your browser, go to: http://localhost:8080/apod
 
+## Features
+1. Simple Python HTTP server using socket and requests
+2. Dynamic HTML page with a modern design and integrated date picker
+3. Fetches APOD data directly from NASA’s public API
+4. Supports images and videos
+
+## Technical Concepts Used
+1. HTTP request parsing and response generation
+2. Environment variables for API key management
+3. HTML forms and CSS styling
+4. External API integration
+
+
 
